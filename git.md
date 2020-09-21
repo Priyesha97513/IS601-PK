@@ -121,6 +121,22 @@ ____________________________________________________________________
 
 * Command used to get files from the local repository into working directory.
 
+### Pull:
+
+* Command used to get files from remote repository to working directory.
+
+### Clone:
+
+* Command used to create local copies of remote repositories from GITHUB.
+
+### Fork:
+
+* Copying from one account to another.
+* Without having collaborators having added to one repository.
+
+
+
+
 
 
 
