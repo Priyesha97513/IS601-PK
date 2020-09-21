@@ -158,6 +158,8 @@ git pull
 
 * Command used to create local copies of remote repositories from GITHUB.
 
+![Git Clone 1](images/GitClone1.PNG)
+
 ### Fork:
 
 * Copying from one account to another.
