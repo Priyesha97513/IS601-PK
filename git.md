@@ -149,6 +149,11 @@ git fetch
 
 * Command used to get files from remote repository to working directory.
 
+Code Example:
+````
+git pull
+````
+
 ### Clone:
 
 * Command used to create local copies of remote repositories from GITHUB.
