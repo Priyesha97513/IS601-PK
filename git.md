@@ -14,13 +14,13 @@
 
 ##### In order for a company to continuously improve their productivity in a competitive market their teams are required to collaborate and keep the source updates. Also, sharing the confidential files in a large scale environment securely is also mandatory. That is where the services like GIT and Docker come in for the security and ease of the development updates continuously being updated in the source code. Along with that features like automated testing within these products saves a lot of time and efforts by individuals to make new updates stand out and test them before making any fixed change to the original code.
 
-![Git icon](images/github.png){:height="20%" width="20%"} ![Docker icon](images/docker.png){:height="20%" width="20%"}
+![Git icon](images/github.png) ![Docker icon](images/docker.png)
 ____________________________________________________________________________________________
 
-###Repository:
+### Repository:
 
 * A place in git where essential resources can be stored which can be tracked with version controls as well as number of commits and updates made from users with allowed access.
 
 **Example**
 
-![Git Repo Example](images/Repo.png){:height="50%" width="50%"}
+![Git Repo Example](images/Repo.png)
