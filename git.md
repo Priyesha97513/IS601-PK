@@ -104,5 +104,74 @@ def decapitalize(str):
 decapitalize('FooBar') # 'fooBar'
 decapitalize('FooBar') # 'fooBar'
 ```
+____________________________________________________________________
+### Commit:
+
+* Command used to add all files that are staged to the local repository.
+
+**Example**
+````
+git commit
+````
+
+![Git commit example](images/GitCommit1.PNG)
+
+
+### Push:
+
+* Command used to add all committed files in the local repository to the remote repository in the remote repository all the changes will be visible to anyone with access to the remote repository.
+
+Code Example:
+
+````
+git push
+````
+
+### Fetch:
+
+* Command used to get files from the remote repository to the local repository but not in the working directory. 
+
+**Code & Example**
+````
+git fetch
+````
+![Git Fetch 1](images/GitFetch1.PNG)
+
+### Merge:
+
+* Command used to get files from the local repository into working directory.
+
+**Example**
+
+![Git Merge 1](images/GitMerge1.PNG)
+
+### Pull:
+
+* Command used to get files from remote repository to working directory.
+
+Code Example:
+````
+git pull
+````
+
+### Clone:
+
+* Command used to create local copies of remote repositories from GITHUB.
+
+![Git Clone 1](images/GitClone1.PNG)
+
+### Fork:
+
+* Copying from one account to another.
+* Without having collaborators having added to one repository.
+
+![Git Fork 1](images/GitFork1.PNG)
+
+
+
+
+
+
+
 
 
