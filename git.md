@@ -131,9 +131,19 @@ git push
 
 * Command used to get files from the remote repository to the local repository but not in the working directory. 
 
+**Code & Example**
+````
+git fetch
+````
+![Git Fetch 1](images/GitFetch1.PNG)
+
 ### Merge:
 
 * Command used to get files from the local repository into working directory.
+
+**Example**
+
+![Git Merge 1](images/GitMerge1.PNG)
 
 ### Pull:
 
