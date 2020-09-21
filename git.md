@@ -70,8 +70,9 @@ Code Example:
 * Git status command shows the working directory, locally highlighting the most recent updates done.
 
 Code Example:
+````
     git status
-
+````
 ### Master Branch:
 
 * Master branch is like any other branch in the repository. Which is generally used to track the commits from the sub branches.
