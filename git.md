@@ -109,5 +109,20 @@ ____________________________________________________________________
 
 * Command used to add all files that are staged to the local repository.
 
+### Push:
+
+* Command used to add all committed files in the local repository to the remote repository in the remote repository all the changes will be visible to anyone with access to the remote repository.
+
+### Fetch:
+
+* Command used to get files from the remote repository to the local repository but not in the working directory. 
+
+### Merge:
+
+* Command used to get files from the local repository into working directory.
+
+
+
+
 
 
