@@ -105,8 +105,9 @@ decapitalize('FooBar') # 'fooBar'
 decapitalize('FooBar') # 'fooBar'
 ```
 ____________________________________________________________________
-###Commit:
+### Commit:
 
-*Command used to add all files that are staged to the local repository.
+* Command used to add all files that are staged to the local repository.
+
 
 
