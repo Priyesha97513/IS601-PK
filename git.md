@@ -25,38 +25,43 @@ ________________________________________________________________________________
 
 ![Git Repo Example](images/Repo.png)
 
-__
-
 ### Branch:
 
 * A branch in Git repository is a pointer that is able to move and provide commits. Default branch in a newly created repository is Master, which is the main root of where the stored resources can be found. Branches can be created locally and are used to be committed into the repository. Once committed the changes can be merged in main branch “Master” to reflect the changes in the repository.
 
 Code Example:
+````
     git branch <new_branch_name>
+````
 
 ### Checkout:
 
 * Checkout command serves as a “Switch”, it is able to switch between different entities or branches. 
 
 Code Example:
+````
     git checkout <branch_name>
-
+````
 ### Remote Add / Remove / Show:
 
 * Add command adds a local file for the repository at the working remote directory queue.
 
 Code Example:
+````
     git add <name-of-the-file-edited>
-
+````
 * Remove command removes added file from the queue.
 
 Code Example:
+````
     git remove <name-of-the-file-edited>
-
+````
 * Show command shows the queued items that are ready to be added to the branch.    	
 
 Code Example:
+````
     git show <name-of-the-file-edited>
+````
 
 * Commit command then can be used to commit the changed files in queue to the remote repository.
 
@@ -88,5 +93,15 @@ if (isAwesome){
 <a href="#"> Click Me! </a>
 ```
 
+* Python:
+
+```python
+def decapitalize(str):
+    return str[:1].lower() + str[1:]
+  
+  
+decapitalize('FooBar') # 'fooBar'
+decapitalize('FooBar') # 'fooBar'
+```
 
 
